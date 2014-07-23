@@ -24,7 +24,6 @@ $( document ).ready(function() {
 
 		// Change the key names and children values from .next and add values for a chosen column to define the size of the blocks, e.g. a value
 		root = reSortRoot(root,"Paid_fare");
-
 		// DEBUG
 		// $("#rawdata").html(JSON.stringify(root));
 
